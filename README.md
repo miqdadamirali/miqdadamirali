@@ -2,7 +2,7 @@
 
 Software developer focused on building scalable, reliable systems and clean user-facing applications.
 
-## 🛠 Core Tech Stack
+## 🛠 Tech Stack
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -42,23 +42,3 @@ Software developer focused on building scalable, reliable systems and clean user
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-## 🧠 Engineering Focus
-- System design & scalability
-- Data modeling & migrations
-- Caching strategies
-- Background & asynchronous processing
-
-## 🧩 Developer Experience
-- Code reviews & technical mentorship
-- Documentation-driven development
-- Incremental refactoring
-
-## 🤝 Product & Collaboration
-- Working closely with product and design
-- Shipping iteratively in production environments
-
-## 🤖 AI & Developer Tools
-- AI-assisted development & prompt engineering
-- Cursor IDE for faster iteration and exploration
-
----
